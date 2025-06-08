@@ -3,7 +3,9 @@
 ## Installation
 1. Ensure you have Python 3.x installed on your system
 2. No additional packages are required
-3. Simply download or clone the repository to your local machine
+3. Download or clone the repository to your local machine
+   - All documentation files are now at the root of the repository
+   - The default branch is `main`
 
 ## Running the Program
 1. Open a terminal or command prompt
@@ -109,5 +111,5 @@ Result (decrypted): Hello, World!
 ## Need Help?
 If you encounter any issues or have questions:
 1. Review this guide
-2. Check the README.md file
+2. Check the README.md file at the root of the repository
 3. Contact the project maintainer 

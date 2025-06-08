@@ -36,15 +36,21 @@ While the Caesar Cipher is a great educational tool, it is not secure for modern
 
 ## Project Structure
 ```
-ceaser cipher/
-├── task1.py          # Main implementation file
-├── README.md         # This file
-└── HOW_TO_USE.md     # Detailed usage instructions
+.
+├── HOW_TO_USE.md     # Detailed usage instructions
+├── README.md         # Project documentation (this file)
+├── ceaser cipher/
+│   └── task1.py      # Main implementation file
+└── LICENSE           # License file
 ```
 
 ## Requirements
 - Python 3.x
 - No additional packages required
+
+## Branch Information
+- The default branch is now `main`.
+- All files, including documentation, are at the root or in their respective folders.
 
 ## License
 This project is open source and available for educational purposes.
